@@ -10,10 +10,10 @@ decrementBth.addEventListener('click', ( ) => {
     counterValue -= 1;
     console.log(counterValue);
     spanValue.textContent = counterValue;
-})
+});
 
 incrementBth.addEventListener('click', ( ) => {
     counterValue += 1;
     console.log(counterValue);
     spanValue.textContent = counterValue;
-})
+});
