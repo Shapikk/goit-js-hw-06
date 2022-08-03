@@ -8,7 +8,7 @@ navEl.forEach((element) => {
     console.log(`Element: ${element.lastElementChild.children.length}`);
 });
 
-console.log(`Number og categoties: ${numberOfCategories}`);
+console.log(`Number of categories: ${numberOfCategories}`);
 
 
 
